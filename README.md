@@ -1,5 +1,7 @@
 # IBM Blockchain Overview
 
+<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png"><p>
+
 # [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/)
 
 # [IBM Blockchain Platform: Develop](https://developer.ibm.com/blockchain/sandbox/)
