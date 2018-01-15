@@ -11,7 +11,7 @@
 
 # Blockchain Developer Patterns
 
-[Decentralized Energy](https://github.com/IBM/Decentralized-Energy-Composer)
+[Decentralized Energy](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
 
 [Create your first blockchain network using Hyperledger Composer](https://github.com/IBM/BlockchainNetwork-CompositeJourney?cm_sp=IBMCode-_-build-a-blockchain-network-_-Get-the-Code)
 
