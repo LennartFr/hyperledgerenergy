@@ -4,9 +4,11 @@
 <p>
 <img src="https://farm5.staticflickr.com/4630/27933522299_0f031eb17b_o.jpg" width="638" height="359" alt="Hyperledger">
 <p>
+ 
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
+
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
 <p>
 
