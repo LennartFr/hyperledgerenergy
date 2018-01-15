@@ -1,5 +1,6 @@
 # IBM Blockchain Overview
 
+# [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/)
 
 # [IBM Blockchain Platform: Develop](https://developer.ibm.com/blockchain/sandbox/)
 
