@@ -1,7 +1,7 @@
 # IBM Blockchain Overview
 
 
-#[IBM Blockchain Platform: Develop](https://developer.ibm.com/blockchain/sandbox/)
+# [IBM Blockchain Platform: Develop](https://developer.ibm.com/blockchain/sandbox/)
 
 
 # Developer Patterns
