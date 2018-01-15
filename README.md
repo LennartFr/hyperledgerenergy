@@ -71,7 +71,7 @@ The peer exists to perform two main functions: execute/validate transactions & m
 https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform
 
 
-
+<img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
 
 
 # Resources
