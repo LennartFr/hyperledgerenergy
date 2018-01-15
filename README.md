@@ -9,15 +9,7 @@
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# We will be using Hyperledger Composer, Hyperledger Fabric and the IBM Cloud
-
-# Step 1: In Composer, develop and run your business network datamodel. Export .bna file
-# Step 2: Develop and run your Angular + .bna file + Fabric app locally
-# Step 3: Deploy your app to the IBM Blockchain Platform on the IBM Cloud.
-
-# Developer Patterns
+# Blockchain Developer Patterns
 
 [Decentralized Energy](https://github.com/IBM/Decentralized-Energy-Composer)
 
@@ -27,5 +19,14 @@
 
 [Blockchain Developer Patterns](https://developer.ibm.com/code/technologies/blockchain/)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Development with Hyperledger Composer, Hyperledger Fabric and the IBM Cloud
+
+## Step 1: In Composer, develop and run your business network datamodel. Export .bna file
+## Step 2: Develop and run your Angular + .bna file + Fabric app locally
+## Step 3: Deploy your app to the IBM Blockchain Platform on the IBM Cloud.
+
+# Resources
 ## Zero to Bockchain
 <a href="https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html">Zero to Blockchain</a>
