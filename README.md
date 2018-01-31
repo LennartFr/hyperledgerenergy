@@ -4,7 +4,7 @@
 <p>
  
 ## Connected Markets. <p>
-Networks connect participants: Customers, suppliers, banks, consumers
+Networks connect participants: customers, suppliers, banks, consumers
 * Markets organize trades: Public and private markets
 * Value comes from assets: Physical assets (house, car ...), Virtual assets (bond, patent ...), Services are also assets
 * Transactions exchange assets 
