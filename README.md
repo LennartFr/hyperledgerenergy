@@ -1,6 +1,6 @@
 # Blockchain technology overview
 <p>
-A blockchain is a decentralized virtual ledger for recording transactions about assets without central authority through a distributed cryptographic protocol. It is made up of three technologies: 
+ A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transactions about assets </b> without <b>central authority</b> through a <b>distributed cryptographic protocol</b>. It is made up of three technologies: 
 
 1. cryptographic algorithms, 
 1. a distributed protocol, 
