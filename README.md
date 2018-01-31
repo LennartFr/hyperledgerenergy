@@ -80,7 +80,7 @@ With blockchain, several users can write entries into a block or a record of inf
 
 ## Blockchain Use Cases
 
-[IBM Blockchain Use cases](https://www.ibm.com/blockchain/use-cases/)
+[IBM Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
 
 ## IBM Blockchain course
 
