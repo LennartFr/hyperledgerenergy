@@ -10,13 +10,12 @@
 [Hyperledger Composer](https://www.hyperledger.org/projects/composer) Hyperledger Composer is a set of collaboration tools for building blockchain business networks that make it simple and fast for business owners and developers to create smart contracts and blockchain applications to solve business problems.
 <p>
 
-# Working with Hyperledger
-# Design Thinking and Design Thinking Field Guide
-
+# Designing and creating Blockchain applications with Hyperledger
 [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
 
-# Use Cases
-[]IBM Blockchain Use cases](https://www.ibm.com/blockchain/use-cases/)
+# Blockchain Use Cases
+[IBM Blockchain Use cases](https://www.ibm.com/blockchain/use-cases/)
+
 
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png"><p>
@@ -24,7 +23,6 @@
 <img src="https://farm5.staticflickr.com/4630/27933522299_0f031eb17b_o.jpg" width="638" height="359" alt="Hyperledger">
 <p>
 
-<i>Hyperledger is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.</i>
 
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
