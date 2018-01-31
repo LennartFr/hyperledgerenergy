@@ -1,4 +1,4 @@
-# Blockchain product overview
+# Blockchain technology overview
 <p>
 A blockchain is a decentralized virtual ledger for recording transactions about assets without central authority through a distributed cryptographic protocol. It is made up of three technologies: 
 
