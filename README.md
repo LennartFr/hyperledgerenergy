@@ -1,10 +1,18 @@
 # Blockchain product overview
 <p>
+A blockchain is a decentralized virtual ledger for recording transactions about assets without central authority through a distributed cryptographic protocol. It is made up of three technologies: 
 
-Blockchain is a shared, distributed ledger that facilitates the process  of  recording  transactions  and  tracking  assets  in  a  
-business network. An asset can be tangible — a house, a car, cash,  land  —  or  intangible  like  intellectual  property,  such  as 
+1. cryptographic algorithms, 
+1. a distributed protocol, 
+1. and replicated data 
+<p>
+which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
+<p>
+An asset can be tangible — a house, a car, cash,  land  —  or  intangible  like  intellectual  property,  such  as 
 patents, copyrights, or branding. Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and 
 cutting costs for all involved.
+<[>
+With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
 
 [E-book Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 <p>
@@ -38,18 +46,18 @@ cutting costs for all involved.
 [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
 
 ## Blockchain Use Cases
+
 [IBM Blockchain Use cases](https://www.ibm.com/blockchain/use-cases/)
 
 ## IBM Blockchain course
-[Zero to Blockchain An IBM Redbooks course by Bob Dill, David Smit] (shttps://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html])
+
+[Zero to Blockchain An IBM Redbooks course by Bob Dill, David Smit](shttps://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html])
 
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
 <p>
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-
 ## Blockchain Developer Patterns
-
 [Blockchain Developer Patterns](https://developer.ibm.com/code/technologies/blockchain/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
@@ -60,16 +68,3 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 
 <img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
 <p>
-
-https://en.wikipedia.org/wiki/Blockchain
-<p>
-<i>A blockchain is a decentralized virtual ledger for recording transactions without central authority through a distributed cryptographic protocol. It is made up of three technologies 
-
-1. cryptographic algorithms, 
-1. a distributed protocol, 
-1. and replicated data 
-<p>
-which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
-<p>
-With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
-</i>
