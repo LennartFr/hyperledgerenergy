@@ -1,7 +1,17 @@
 # Blockchain product overview
 <p>
+
+Blockchain is a shared, distributed ledger that facilitates the process  of  recording  transactions  and  tracking  assets  in  a  
+business network. An asset can be tangible — a house, a car, cash,  land  —  or  intangible  like  intellectual  property,  such  as 
+patents, copyrights, or branding. Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and 
+cutting costs for all involved.
+
+[E-book Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
+<p>
+ 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png"><p>
 <p>
+ 
 [Hyperledger](https://www.hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 <p>
 
