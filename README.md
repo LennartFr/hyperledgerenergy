@@ -66,6 +66,9 @@ With blockchain, several users can write entries into a block or a record of inf
 
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
+ 
+<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
+<p>
 
 [Hyperledger Composer](https://www.hyperledger.org/projects/composer) Hyperledger Composer is a set of collaboration tools for building blockchain business networks that make it simple and fast for business owners and developers to create smart contracts and blockchain applications to solve business problems.
 
@@ -86,8 +89,6 @@ With blockchain, several users can write entries into a block or a record of inf
 
 [Zero to Blockchain An IBM Redbooks course by Bob Dill, David Smit](shttps://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html)
 
-<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
-<p>
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## Blockchain Developer Patterns
