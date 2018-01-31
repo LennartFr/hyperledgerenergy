@@ -1,5 +1,4 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 # Blockchain technology overview
 <p>
  
@@ -8,8 +7,13 @@ Networks connect participants: customers, suppliers, banks, consumers
 * Markets organize trades: Public and private markets
 * Value comes from assets: Physical assets (house, car ...), Virtual assets (bond, patent ...), Services are also assets
 * Transactions exchange assets 
+
+An asset can be tangible — a house, a car, cash,  land  —  or  intangible  like  intellectual  property,  such  as 
+patents, copyrights, or branding. Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and 
+cutting costs for all involved.
+<p>
  <p>
-  https://www.itu.int/en/ITU-T/Workshops-and-Seminars/201703/Documents/Christian%20Cachin%20blockchain-itu.pdf
+ https://www.itu.int/en/ITU-T/Workshops-and-Seminars/201703/Documents/Christian%20Cachin%20blockchain-itu.pdf
 <p>
 A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transactions about assets </b> without <b>central authority</b> through a <b>distributed cryptographic protocol</b>. 
 <p>
@@ -38,10 +42,6 @@ A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transacti
                        
 <p>
 which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
-<p>
-An asset can be tangible — a house, a car, cash,  land  —  or  intangible  like  intellectual  property,  such  as 
-patents, copyrights, or branding. Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and 
-cutting costs for all involved.
 <p>
 With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
 
