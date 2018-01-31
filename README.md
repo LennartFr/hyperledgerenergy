@@ -6,6 +6,7 @@ Networks connect participants: Customers, suppliers, banks, consumers
 * Markets organize trades: Public and private markets
 * Value comes from assets: Physical assets (house, car ...), Virtual assets (bond, patent ...), Services are also assets
 * Transactions exchange assets 
+ <p>
   https://www.itu.int/en/ITU-T/Workshops-and-Seminars/201703/Documents/Christian%20Cachin%20blockchain-itu.pdf
 <p>
 A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transactions about assets </b> without <b>central authority</b> through a <b>distributed cryptographic protocol</b>. 
