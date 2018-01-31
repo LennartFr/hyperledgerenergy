@@ -7,11 +7,34 @@ Networks connect participants: Customers, suppliers, banks, consumers
 <p>Transactions exchange assets 
 <p> https://www.itu.int/en/ITU-T/Workshops-and-Seminars/201703/Documents/Christian%20Cachin%20blockchain-itu.pdf
  <p>
-A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transactions about assets </b> without <b>central authority</b> through a <b>distributed cryptographic protocol</b>. It is made up of three technologies: 
+A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transactions about assets </b> without <b>central authority</b> through a <b>distributed cryptographic protocol</b>. 
+<p>
+ 
+ ## Four elements characterize Blockchain
+ ### Replicated ledger
+* History of all transactions
+* Append-only with immutable past
+* Distributed and replicated
+ 
+### Cryptography
+* Integrity of ledger
+* Authenticity of Transactions
+* Privacy of Transactions
+* Identity of Participants
 
-1. cryptographic algorithms, 
-1. a distributed protocol, 
-1. and replicated data 
+### Consensus
+* Decentralized Protocol
+* Sharedconrol tolerating disruption
+* Transactions validated
+
+### Business Lodgic
+* Logic embedded in the ledger
+* Executed together with transactions
+* From simple "coins" to self-enforcing "smart contracts" 
+                       
+ 
+ 
+  
 <p>
 which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
 <p>
