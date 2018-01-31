@@ -28,7 +28,7 @@ A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transacti
 
 ### Consensus
 * Decentralized Protocol
-* Sharedconrol tolerating disruption
+* Shared conrol tolerating disruption
 * Transactions validated
 
 ### Business Lodgic
