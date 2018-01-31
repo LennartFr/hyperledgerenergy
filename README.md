@@ -11,7 +11,7 @@ which combined provide a trustworthy service to a group of nodes that do not ful
 An asset can be tangible — a house, a car, cash,  land  —  or  intangible  like  intellectual  property,  such  as 
 patents, copyrights, or branding. Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and 
 cutting costs for all involved.
-<[>
+<p>
 With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
 
 [E-book Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
