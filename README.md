@@ -1,5 +1,6 @@
 # Blockchain technology overview
 <p>
+ 
 ## Connected markets. <p>
 Networks connect participants: Customers, suppliers, banks, consumers
 <p>Markets organize trades: Public and private markets
