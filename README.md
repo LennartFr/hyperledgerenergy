@@ -1,7 +1,7 @@
 # Blockchain technology overview
 <p>
  
-## Connected markets. <p>
+## Connected Markets. <p>
 Networks connect participants: Customers, suppliers, banks, consumers
 <p>Markets organize trades: Public and private markets
 <p>Value comes from assets: Physical assets (house, car ...), Virtual assets (bond, patent ...), Services are also assets
@@ -33,9 +33,6 @@ A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transacti
 * Executed together with transactions
 * From simple "coins" to self-enforcing "smart contracts" 
                        
- 
- 
-  
 <p>
 which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
 <p>
