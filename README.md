@@ -47,10 +47,12 @@ With blockchain, several users can write entries into a block or a record of inf
 
 [E-book Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 <p>
- 
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png"><p>
 <p>
- 
+
 [Hyperledger](https://www.hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 <p>
 
