@@ -1,12 +1,20 @@
 # Blockchain product overview
 <p>
- 
+<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png"><p>
+<p>
 [Hyperledger](https://www.hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 <p>
 
 [Hyperledger Fabric](github.com/hyperledger/fabric) is an implementation of a distributed ledger platform for running smart contracts, leveraging familiar and proven technologies,  with  a  modular  architecture  allowing  pluggable  implementations  of  various  functions.
 <p>
- 
+<p>
+<img src="https://farm5.staticflickr.com/4630/27933522299_0f031eb17b_o.jpg" width="638" height="359" alt="Hyperledger">
+<p>
+
+## The Blockchain Distributed Ledger
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+<p>
+
 [Hyperledger Composer](https://www.hyperledger.org/projects/composer) Hyperledger Composer is a set of collaboration tools for building blockchain business networks that make it simple and fast for business owners and developers to create smart contracts and blockchain applications to solve business problems.
 <p>
 
@@ -19,14 +27,7 @@
 # IBM Blockchain course
 [Zero to Blockchain An IBM Redbooks course by Bob Dill, David Smit] (shttps://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html])
 
-<img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png"><p>
-<p>
-<img src="https://farm5.staticflickr.com/4630/27933522299_0f031eb17b_o.jpg" width="638" height="359" alt="Hyperledger">
-<p>
 
-## The Blockchain Distributed Ledger
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-<p>
 
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">  
 <p>
