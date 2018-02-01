@@ -101,8 +101,7 @@ With blockchain, several users can write entries into a block or a record of inf
 
 In Hyoerledger Composer: save data model as a .bna file.
 
-## Step 5: 
-Now, we are ready to deploy the business network to Hyperledger Fabric.<p> 
+## Step 5: Deploy the business network to Hyperledger Fabric. 
 * This requires the Hyperledger Composer chaincode to be installed on the peer,
 * then the business network archive (.bna) must be sent to the peer, 
 * and a new participant, identity, and associated card must be created to be the network administrator. 
@@ -111,8 +110,7 @@ Now, we are ready to deploy the business network to Hyperledger Fabric.<p>
 
 [Step by step description](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
 
-## Steo 6:
-* [Deploy on the IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/)
+## Steo 6: [Deploy on the IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
