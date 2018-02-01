@@ -79,6 +79,9 @@ With blockchain, several users can write entries into a block or a record of inf
  <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Designing and creating Blockchain applications with Hyperledger
+
+[Hyperledger Rockeyt Chat:](https://chat.hyperledger.org/home)
+
 [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
 
 ## Blockchain Use Cases
@@ -103,3 +106,4 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 
 <img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
 <p>
+
