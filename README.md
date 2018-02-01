@@ -74,29 +74,30 @@ With blockchain, several users can write entries into a block or a record of inf
 [Hyperledger Composer](https://www.hyperledger.org/projects/composer) Hyperledger Composer is a set of collaboration tools for building blockchain business networks that make it simple and fast for business owners and developers to create smart contracts and blockchain applications to solve business problems.
 
 [Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/tutorials.html)
-
 <p>
- 
- <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Designing and creating Blockchain applications with Hyperledger
 
-[Hyperledger Rockeyt Chat:](https://chat.hyperledger.org/home)
+## Step 1: Learn Design Thinking
+
+[Hyperledger Rocket Chat:](https://chat.hyperledger.org/home)
 
 [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
 
-## Blockchain Use Cases
+## Step 2: Go through IBM Blockchain Use Cases
 
 [IBM Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
 
-## IBM Blockchain course
+## Step 3a: Take the IBM Blockchain on-line course
 
 [Zero to Blockchain An IBM Redbooks course](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html)
 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-## Blockchain Developer Patterns
+## Step 3b: Go through selected Blockchain Developer Patterns
 [Blockchain Developer Patterns](https://developer.ibm.com/code/technologies/blockchain/)
+
+## Step 4: Create your own Hyperledger Data Model
+[Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/tutorials.html)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
