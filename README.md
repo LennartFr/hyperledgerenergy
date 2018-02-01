@@ -26,7 +26,9 @@ A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transacti
     <th>Lastname</th>
   </tr>
   <tr>
-    <td>### Replicated ledger/td>
+    <td>### Replicated ledger</td>
+  <tr>
+   <tr>
     <td>aaa</td> 
     <td>aaa</td>
    <td>aaa</td>
