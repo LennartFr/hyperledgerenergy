@@ -111,6 +111,7 @@ Now, we are ready to deploy the business network to Hyperledger Fabric.<p>
 
 [Step by step description](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
 
+## Steo 6:
 * [Deploy on the IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
