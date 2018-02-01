@@ -23,19 +23,15 @@ A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transacti
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Lastname</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td>### Replicated ledger/td>
+    <td>aaa</td> 
+    <td>aaa</td>
+   <td>aaa</td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
+  
 </table>
 
 ## Four elements characterize Blockchain
