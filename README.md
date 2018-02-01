@@ -84,8 +84,6 @@ With blockchain, several users can write entries into a block or a record of inf
 
 ## Step 1: Learn Design Thinking
 
-[Hyperledger Rocket Chat:](https://chat.hyperledger.org/home)
-
 [IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
 
 ## Step 2: Go through IBM Blockchain Use Cases
@@ -123,6 +121,10 @@ In Hyoerledger Composer: save data model as a .bna file.
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Appendix
+## Chat
+[Hyperledger Rocket Chat:](https://chat.hyperledger.org/home)
+
+
 ## How did it all start?
  
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
