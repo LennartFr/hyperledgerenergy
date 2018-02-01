@@ -7,7 +7,7 @@
 Networks connect participants: customers, suppliers, banks, consumers
  * <b>Markets </b> organize trades: Public and private markets
  * Value comes from <b>assets</b>: Physical assets (house, car ...), Virtual assets (bond, patent ...), Services are also assets
- * <b>Transactions </a> exchange assets 
+ * <b>Transactions </b> exchange assets 
 
 An asset can be tangible — a house, a car, cash,  land  —  or  intangible  like  intellectual  property,  such  as 
 patents, copyrights, or branding. Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and 
