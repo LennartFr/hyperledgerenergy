@@ -3,7 +3,7 @@
 # Blockchain technology overview
 <p>
  
-## Connected Markets. <p>
+## Background to Blockchain, Connected Markets. <p>
 Networks connect participants: customers, suppliers, banks, consumers
 * Markets organize trades: Public and private markets
 * Value comes from assets: Physical assets (house, car ...), Virtual assets (bond, patent ...), Services are also assets
