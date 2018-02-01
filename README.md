@@ -109,6 +109,8 @@ Now, we are ready to deploy the business network to Hyperledger Fabric.<p>
 * Finally, the network administrator business network card must be imported for use, 
 * and the network can then be pinged to check it is responding.
 
+[Step by step description](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Appendix
