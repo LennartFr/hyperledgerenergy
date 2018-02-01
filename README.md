@@ -19,9 +19,29 @@ cutting costs for all involved.
 A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transactions about assets </b> without <b>central authority</b> through a <b>distributed cryptographic protocol</b>. 
 <p>
  The blockchain ledger is permissioned, it supports consensus, it has provenance, immutability and finality.
- 
- ## Four elements characterize Blockchain
- ### Replicated ledger
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+
+## Four elements characterize Blockchain
+
+
+### Replicated ledger
 * History of all transactions
 * Append-only with immutable past
 * Distributed and replicated
