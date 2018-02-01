@@ -54,7 +54,7 @@ With blockchain, several users can write entries into a block or a record of inf
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png"><p>
 <p>
 
-[Hyperledger](https://www.hyperledger.org/) is an umbrella project of open source blockchains and related tools, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
+[Hyperledger](https://www.hyperledger.org/) is an umbrella project of <a href="https://github.com/hyperledger">open source blockchains and related tools</a>, started in December 2015 by the Linux Foundation, to support the collaborative development of blockchain-based distributed ledgers.
 <p>
 
 [Hyperledger Fabric](github.com/hyperledger/fabric) is an implementation of a distributed ledger platform for running smart contracts, leveraging familiar and proven technologies,  with  a  modular  architecture  allowing  pluggable  implementations  of  various  functions.
