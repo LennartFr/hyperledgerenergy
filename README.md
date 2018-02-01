@@ -35,7 +35,7 @@ A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transacti
 * Shared conrol tolerating disruption
 * Transactions validated
 
-### Business Lodgic
+### Business Logic
 * Logic embedded in the ledger
 * Executed together with transactions
 * From simple "coins" to self-enforcing "smart contracts" 
@@ -96,7 +96,8 @@ With blockchain, several users can write entries into a block or a record of inf
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# How did it all start?
+# Appendix
+## How did it all start?
  
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
 
