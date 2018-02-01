@@ -87,7 +87,7 @@ With blockchain, several users can write entries into a block or a record of inf
 
 ## IBM Blockchain course
 
-[Zero to Blockchain An IBM Redbooks course by Bob Dill, David Smit](shttps://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html)
+[Zero to Blockchain An IBM Redbooks course](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
