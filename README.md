@@ -99,6 +99,16 @@ With blockchain, several users can write entries into a block or a record of inf
 ## Step 4: Create your own Hyperledger Data Model
 [Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/tutorials.html)
 
+In Hyoerledger Composer: save data model as a .bna file.
+
+## Step 5: 
+Now, we are ready to deploy the business network to Hyperledger Fabric.<p> 
+* This requires the Hyperledger Composer chaincode to be installed on the peer,
+* then the business network archive (.bna) must be sent to the peer, 
+* and a new participant, identity, and associated card must be created to be the network administrator. 
+* Finally, the network administrator business network card must be imported for use, 
+* and the network can then be pinged to check it is responding.
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Appendix
