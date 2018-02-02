@@ -5,7 +5,7 @@
 # Blockchain technology overview
 <p>
  
-It all started in October 2008 with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed Double Spending, a key problem in electronic commerce, and revolutionized the world of Double-Entry Bookkeeping
+It all started in October 2008 with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed <b>Double Spending</b>, a key problem in electronic commerce, and revolutionized the world of Double-Entry Bookkeeping
 
  
  ## The Blockchain Distributed Ledger
