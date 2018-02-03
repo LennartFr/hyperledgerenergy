@@ -1,22 +1,3 @@
-# October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
-which addressed a key problem in electronic commerce:
-~~~
-A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
-from one party to another without going through a financial institution. 
-
-Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party 
-is still required to prevent double-spending.
-
-We propose a solution to the double-spending problem using a peer-to-peer network.
-~~~
-
-# BitCoin and Blockchain
-
-* Assets over cryptocurrency
-* Identity over anonymity
-* Selective endorsement (consensus) over proof of work
-
-# Blockchain Use cases
 
 # Blockchain and Hyperledger
 ~~~
@@ -73,10 +54,24 @@ https://hyperledger-fabric.readthedocs.io/en/latest/samples.htm
 
 # Blockchain technology overview
 <p>
- 
-It all started in October 2008 with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed <b>Double Spending</b>, a key problem in electronic commerce, and revolutionized the world of Double-Entry Bookkeeping
+ # October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
+which addressed a key problem in electronic commerce:
+~~~
+A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
+from one party to another without going through a financial institution. 
 
- 
+Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party 
+is still required to prevent double-spending.
+
+We propose a solution to the double-spending problem using a peer-to-peer network.
+~~~
+
+# Bitcoin versus Blockchain
+
+* Cryptocurrency over Assets
+* Anonymity over Identity
+* Proof of work (mining) over Selective endorsement (consensus)
+
  ## The Blockchain Distributed Ledger
 
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
