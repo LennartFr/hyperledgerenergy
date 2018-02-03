@@ -9,7 +9,7 @@
 <p>
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
 which addressed a key problem in electronic commerce:
-<h2>
+<h3>
 <b> 
  
 ~~~
@@ -23,7 +23,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 ~~~
 
 </b>
-</h2>
+</h3>
 
 # Bitcoin versus Blockchain
 
