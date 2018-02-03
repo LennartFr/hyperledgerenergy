@@ -34,6 +34,8 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
  <tr><td>Proof of work (mining) <td>Selective endorsement (consensus)</tr>
  </table>
 
+[Proof of Work vs Proof of Stake](https://www.ccn.com/bitcoins-future-proof-of-stake-vs-proof-of-work/)
+
  ## The Blockchain Distributed Ledger
 
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
