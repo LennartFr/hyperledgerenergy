@@ -35,11 +35,6 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
  </table>
 
 [Bitcoin: Proof of Work vs Proof of Stake](https://www.ccn.com/bitcoins-future-proof-of-stake-vs-proof-of-work/)
-
- ## The Blockchain Distributed Ledger
-
-<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
-<p>
  
  
 ## Background to Blockchain, Connected Markets. <p>
@@ -59,6 +54,11 @@ A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transacti
 <p>
  The blockchain ledger is permissioned, it supports consensus, it has provenance, immutability and finality.
 
+## The Blockchain Distributed Ledger
+
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+<p>
+ 
 
 ## Four elements characterize Blockchain
 
