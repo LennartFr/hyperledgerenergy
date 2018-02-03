@@ -28,8 +28,8 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 # Bitcoin versus Blockchain
 <table>
- <tr><th<Bitcoin<th>Blockchain</tr> 
- <tr><td> Cruptocurrency<td>Assets</tr>
+ <tr><th<Bitcoin</th><th>Blockchain</th></tr> 
+ <tr><td> Cryptocurrency<td>Assets</tr>
  <tr><td>Cryptocurrency <td>Assets</tr>
 <tr><td>Anonymity <td> Identity</tr>
  <tr><td>Proof of work (mining) <td>Selective endorsement (consensus)</tr>
