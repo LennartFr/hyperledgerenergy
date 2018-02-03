@@ -13,8 +13,8 @@ which addressed a key problem in electronic commerce:
 <b> 
  
 ~~~
-A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
-from one party to another without going through a financial institution. 
+A purely peer-to-peer version of electronic cash would allow online payments
+to be sent directly from one party to another without going through a financial institution. 
 
 Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party 
 is still required to prevent double-spending.
