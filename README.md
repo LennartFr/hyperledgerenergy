@@ -27,10 +27,13 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 </h3>
 
 # Bitcoin versus Blockchain
-
-* Cryptocurrency over Assets
-* Anonymity over Identity
-* Proof of work (mining) over Selective endorsement (consensus)
+<table>
+ <tr><th<Bitcoin<th>Blockchain</tr>
+ <tr><td> Cruptocurrency<td>Assets</tr>
+ <tr><td>Cryptocurrency <td>Assets</tr>
+<tr><td>Anonymity <td> Identity</tr>
+ <tr><td>Proof of work (mining) <td>Selective endorsement (consensus)</tr>
+ </table>
 
  ## The Blockchain Distributed Ledger
 
