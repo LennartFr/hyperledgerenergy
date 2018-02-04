@@ -3,7 +3,7 @@
 # [https://ibm.biz/startinghyperledger](https://ibm.biz/startinghyperledger)
 
 # The Promise of Blockchain Is a World Without Middlemen
-Vinay Gupta skriver i Harvard Business Review: https://hbr.org/2017/03/the-promise-of-blockchain-is-a-world-without-middlemen
+Vinay Gupta in Harvard Business Review: https://hbr.org/2017/03/the-promise-of-blockchain-is-a-world-without-middlemen
 
 # How it all started
 <p>
