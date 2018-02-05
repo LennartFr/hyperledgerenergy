@@ -92,6 +92,23 @@ With blockchain, several users can write entries into a block or a record of inf
 [E-book Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 <p>
 
+# Bockchain concepts
+
+## The ledger and the State Database
+
+There are two place which "store" data in Hyperledger Fabric:
+### The ledger is the actual "blockchain". 
+It is a file-based ledger which stores serialized blocks. Each block has one or more transactions. <br>
+Each transaction contains a read-write set which modifies one or more key/value pairs. <br>
+The ledger is the definitive source of data and is immutable.
+
+### The state database holds the last known committed value for any given key. 
+It is populated when each peers validates and commits a transaction. <br>
+The state database can always be rebuilt from re-processing the ledger. <br>
+There are currently two options for the state database: an embedded LevelDB or an external CouchDB.
+<p>
+As an aside, if you are familiar with Hyperledger Fabric channels, there is a separate ledger for each channel as well.
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png"><p>
