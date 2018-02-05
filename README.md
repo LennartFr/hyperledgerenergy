@@ -103,7 +103,7 @@ Each transaction contains a read-write set which modifies one or more key/value 
 The ledger is the definitive source of data and is immutable.
 
 ### The state database holds the last known committed value for any given key. 
-It is populated when each peers validates and commits a transaction. <br>
+It is populated when each peer validates and commits a transaction. <br>
 The state database can always be rebuilt from re-processing the ledger. <br>
 There are currently two options for the state database: an embedded LevelDB or an external CouchDB.
 <p>
