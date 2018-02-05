@@ -108,6 +108,12 @@ The state database can always be rebuilt from re-processing the ledger. <br>
 There are currently two options for the state database: an embedded LevelDB or an external CouchDB.
 <p>
 As an aside, if you are familiar with Hyperledger Fabric channels, there is a separate ledger for each channel as well.
+<p>
+When we query from where do we retrieve data?  1) from the blockchain chain or 2) from state db? <p>.
+If it is from state db how can it retrieve a specific key because you mentioned "state database holds the last known committed value for any given key" <p> 
+Queries or GetState in chaincode return data from the state db. They will only return the last value for a key. <p>
+If you want to get the entire history for a key, you need to enable the historical database in the configuration of your peer 
+
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
