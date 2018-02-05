@@ -94,7 +94,7 @@ With blockchain, several users can write entries into a block or a record of inf
 
 # Bockchain concepts
 
-## The ledger and the State Database
+## The Ledger and the State Database
 
 There are two place which "store" data in Hyperledger Fabric:
 ### The ledger is the actual "blockchain". 
