@@ -190,6 +190,6 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 <p>
  
  
- #Appendix
+[IOT Blockchain](https://console.bluemix.net/docs/services/IoT/blockchain/dev_blockchain.html#iotblockchain_link)
  
 
