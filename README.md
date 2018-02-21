@@ -114,6 +114,8 @@ If it is from state db how can it retrieve a specific key because you mentioned 
 Queries or GetState in chaincode return data from the state db. They will only return the last value for a key. <p>
 If you want to get the entire history for a key, you need to enable the historical database in the configuration of your peer 
 
+### Chaincode.
+Like <b>Stored Procedures</b> in a traditional database, handles business logic. http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.htm
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
