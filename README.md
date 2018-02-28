@@ -182,18 +182,3 @@ In Hyperledger Composer: save data model as a .bna file.
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Appendix
-## Chat
-[Hyperledger Rocket Chat:](https://chat.hyperledger.org/home)
-
-
-## How did it all start?
- 
-October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce)
-
-<img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
-<p>
- 
- 
-[IOT Blockchain](https://console.bluemix.net/docs/services/IoT/blockchain/dev_blockchain.html#iotblockchain_link)
- 
-
