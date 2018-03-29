@@ -40,7 +40,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 1. Both maintain the replicas in sync through a protocol referred to as consensus.
 1. Both provide certain guarantees on the immutability of the ledger, even when some participants are faulty or malicious.
 
-## Public blockchain and known participants
+## [Public blockchain and known participants](https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/)
 The sole distinction between public and private blockchain is related to who is allowed to participate in the network, execute the consensus protocol and maintain the shared ledger. A public blockchain network is completely open and anyone can join and participate in the network. The network typically has an incentivizing mechanism to encourage more participants to join the network. Bitcoin is one of the largest public blockchain networks in production today.
 
 One of the drawbacks of a public blockchain is the substantial amount of computational power that is necessary to maintain a distributed ledger at a large scale. More specifically, to achieve consensus, each node in a network must solve a complex, resource-intensive cryptographic problem called a proof of work to ensure all are in sync.
