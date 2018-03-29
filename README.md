@@ -34,6 +34,17 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
  <tr><td>Proof of work (mining) <td>Selective endorsement (consensus)</tr>
  </table>
 
+## [The similarities of public and private blockchain](https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/)
+
+1. Both are decentralized peer-to-peer networks, where each participant maintains a replica of a shared append-only ledger of digitally signed transactions.
+1. Both maintain the replicas in sync through a protocol referred to as consensus.
+1. Both provide certain guarantees on the immutability of the ledger, even when some participants are faulty or malicious.
+
+
+
+
+
+
 [Bitcoin: Proof of Work vs Proof of Stake](https://www.ccn.com/bitcoins-future-proof-of-stake-vs-proof-of-work/)
  
  
